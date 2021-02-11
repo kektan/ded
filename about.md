@@ -1,7 +1,7 @@
 ---
-title: About
+title: Links
 layout: page
-permalink: about.html
+permalink: links.html
 ---
 ![Profile Image](assets/images/avatar.png)
 
