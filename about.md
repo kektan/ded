@@ -12,10 +12,12 @@ hi, i'm ame. i make shitty vocal synth covers.
 
 <i class="fas fa-music"></i>
 
+* * *
+
 ### AME WORKS:
 
-soundcloud: amefuru2   
-soundcloud2: candyfuru   
+soundcloud: [amefuru2](https://soundcloud.com/amefuru2)   
+soundcloud2: [candyfuru](https://soundcloud.com/candyfuru)   
 
 nicovideo:
 
