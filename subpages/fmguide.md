@@ -1,5 +1,5 @@
 ---
-permalink: /fortuneguide.html
+permalink: /fmguide.html
 ---
 
 # How to Talk to Your Oshi in Online Event (22/7 Edition)
@@ -90,7 +90,7 @@ got it? got it.
 ## Downloading and using the FortuneMeets app
 
 1. You might want to get used to the app before the actual day of the online event. If you haven't download the [app](https://www.fortunemusic.app/).   
-   NOTE: You might need to set your App/Play Store region to Japan to get the app. You'll only need to switch to a Japanese Apple ID on iOS (i'm not familiar with android so you might need to figure out how to install JPN apps yourself)   
+   NOTE: You might need to set your App/Play Store region to Japan to get the app. You'll only need to switch to a Japanese Apple ID on iOS. If you don't have a Japanese Apple ID, here's a [guide](https://www.wikihow.tech/Get-Japanese-Apps-on-iPhone-or-iPad) (I recommend following Method 2.) (i'm not familiar with android so you might need to figure out how to install JPN apps yourself)   
 2. When you open the app, you should see a bunch of events for 22/7. Press the second button on the bottom to log in (your login should be the same you signed up FortuneMusic with.)
 3. After you log in, you should see the events you have already paid for. If today's the day of the event, wait for the queue to open.
 4. Wait in the queue.
