@@ -62,7 +62,46 @@ before we start i wanna clarify a few things.
 
 got it? got it.
 
-[(WORK IN PROGRESS)](subpages/404.md)
+1. Luckily, the FortuneMusic homepage should already feature 22/7 when you go there. Scroll down until you see a schedule of sorts.
+2. You should see stuff when you scroll down. If you see a green button (受付中) then you can sign up there. 
+3. On that next screen, you can see a list of members and the times and date they will be available. Most of you might be signing up to see Sally Amaki or something lol but for the people that don't understand a lick of Japanese (again, why are you here), here's a table of the member's names in kanji and a TL of it.
+   1. If you live in a timezone that's vastly different than JST, google `[time] JST to [your own timezone]`. 
+
+| Members | TL |
+| --- | --- |
+| 天城サリー | [Sally Amaki](https://nanabunnonijyuuni.fandom.com/wiki/Sally_Amaki)| 
+| 海乃るり | [Ruri Umino](https://nanabunnonijyuuni.fandom.com/wiki/Ruri_Umino) |
+| 河瀬詩 | [Uta Kawase](https://nanabunnonijyuuni.fandom.com/wiki/Uta_Kawase) |
+| 倉岡水巴 | [Mizuha Kuraoka](https://nanabunnonijyuuni.fandom.com/wiki/Mizuha_Kuraoka) |
+| 西條和 | [Nagomi Saijou](https://nanabunnonijyuuni.fandom.com/wiki/Nagomi_Saijo) |
+| 白沢かなえ | [Kanae Shirosawa](https://nanabunnonijyuuni.fandom.com/wiki/Kanae_Shirosawa) |
+| 涼花萌 | [Moe Suzuhana](https://nanabunnonijyuuni.fandom.com/wiki/Moe_Suzuhana) |
+| 高辻麗 | [Urara Takatsuji](https://nanabunnonijyuuni.fandom.com/wiki/Urara_Takatsuji)|
+| ~~帆風千春~~ | ~~Chiharu Hokaze~~ (to be updated) |
+| 宮瀬玲奈 | [Reina Miyase](https://nanabunnonijyuuni.fandom.com/wiki/Reina_Miyase) | 
+
+4. Scroll down until you see green down arrows on grey blocks. You’ll see whichever slot that a member is available (refer to previous page for exact times.)  click on the dropdown boxes and choose an amount of tickets you want. If you’re done, scroll down and click green button (カートへ進む) 
+5. So now you’re ready to pay. Click on the 6 boxes and click the right button on the bottom (unless you’re a elementary schooler)   
+6. Next screen is the confirmation screen. Click the green button.   
+7. You're done now lol
+
+* * *
+
+# Downloading and using the FortuneMeets app
+
+1. You might want to get used to the app before the actual day of the online event. If you haven't download the [app](https://www.fortunemusic.app/).   
+   NOTE: You might need to set your App/Play Store region to Japan to get the app. You'll only need to switch to a Japanese Apple ID on iOS (i'm not familiar with android so you might need to figure out how to install JPN apps yourself)   
+2. When you open the app, you should see a bunch of events for 22/7. Press the second button on the bottom to log in (your login should be the same you signed up FortuneMusic with.)
+3. After you log in, you should see the events you have already paid for. If today's the day of the event, wait for the queue to open.
+4. Wait in the queue.
+5. Congrats you have met your oshi. 
+
+if you made it this far, it may be already too late. 
+
+...and that's the end of the guide.
+
+
+[(WORK IN PROGRESS)](404.md) (putting images later)
 
 ### Support or Contact
 
