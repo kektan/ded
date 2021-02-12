@@ -87,7 +87,7 @@ got it? got it.
 
 * * *
 
-# Downloading and using the FortuneMeets app
+## Downloading and using the FortuneMeets app
 
 1. You might want to get used to the app before the actual day of the online event. If you haven't download the [app](https://www.fortunemusic.app/).   
    NOTE: You might need to set your App/Play Store region to Japan to get the app. You'll only need to switch to a Japanese Apple ID on iOS (i'm not familiar with android so you might need to figure out how to install JPN apps yourself)   
