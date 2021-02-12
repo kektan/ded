@@ -9,7 +9,7 @@ You have come to the right place! Look no further to this shitty guide.
 
 In this guide, we will cover three things:
 
-1. [Signing up on FortuneMusic](#signing-up-for-fortunemeets)
+1. [Signing up on FortuneMusic](#signing-up-for-fortunemusic)
 2. [Getting tickets](#getting-tickets)
 3. [Downloading and using the FortuneMeets app](#downloading-and-using-the-fortunemeets-app)   
 
