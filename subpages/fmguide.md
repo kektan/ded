@@ -70,7 +70,7 @@ got it? got it.
 
 1. Luckily, the FortuneMusic homepage should already feature 22/7 when you go there. Scroll down until you see a schedule of sorts.
 2. You should see stuff when you scroll down. If you see a green button (受付中) then you can sign up there.   
-![part2step2](https://i.imgur.com/B7YdcKL.png
+![part2step2](https://i.imgur.com/B7YdcKL.png)
 4. On that next screen, you can see a list of members and the times and date they will be available. Most of you might be signing up to see Sally Amaki or something lol but for the people that don't understand a lick of Japanese (again, why are you here), here's a table of the member's names in kanji and a TL of it.
    1. If you live in a timezone that's vastly different than JST, google `[time] JST to [your own timezone]`. 
 
