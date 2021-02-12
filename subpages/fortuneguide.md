@@ -11,7 +11,7 @@ In this guide, we will cover three things:
 
 1. [Signing up on FortuneMusic](#signing-up-for-fortunemeets)
 2. [Getting tickets](#getting-tickets)
-3. Downloading and using the FortuneMeets app
+3. [Downloading and using the FortuneMeets app](#downloading-and-using-the-fortunemeets-app)   
 
 **NOTE**: This guide will assume you have a _Tenso (proxy service) or a Japanese address_ you can use to have items shipped to you. If you don't, go apply for one first. 
 Any specific questions on how to sign up can be answered at the #events chat at the [22/7 Discord](https://discord.gg/227) server.
