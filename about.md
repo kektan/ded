@@ -16,6 +16,8 @@ hi, i'm ame. i make shitty vocal synth covers.
 
 ### AME WORKS:
 
+<img src=assets/images/music.png width="100" height="100">
+
 soundcloud: [amefuru2](https://soundcloud.com/amefuru2)   
 soundcloud2: [candyfuru](https://soundcloud.com/candyfuru)   
 
@@ -32,5 +34,5 @@ youtube:
 
 ### OTHER: 
 
-main site   
-UST/VSQx distribution site   
+[main (better) site](amefuru.uwu.ai)   
+[UST/VSQx distribution site](ustvsqx.crd.co)   
