@@ -114,6 +114,7 @@ if you made it this far, it may be already too late.
 * If you're not meeting Sally and don't have a clue on what to say to the member you're meeting, I recommend typing out a script and have it on a notepad on your computer. Keep in mind that one ticket in talk-kai is about 14 or so seconds (unless you bought multiple tickets and stacked them) so keep it brief. 
   * Stacking tickets is a whole another topic I won't bother to cover lol 
 * If the online event is dedicated to 22/7's new single or something, then they will send out CDs to you since it's bundled with talk/cheki/sign-kai tickets. If you bought multiple tickets, then you may want to think of a way to get rid of extra CDs. Be aware that the CDs may also have low resale value at your local bookstore or something. ~~I recommend throwing the CDs into a river.~~
+* You may experience major lag during calls. 
 
 ### Support or Contact
 
