@@ -13,13 +13,24 @@ In this guide, we will cover three things:
 2. [Getting tickets](#getting-tickets)
 3. [Downloading and using the FortuneMeets app](#downloading-and-using-the-fortunemeets-app)   
 
-**NOTE**: This guide will assume you have a _Tenso (proxy service) or a Japanese address_ you can use to have items shipped to you. If you don't, go apply for one first. 
-Any specific questions on how to sign up can be answered at the #events chat at the [22/7 Discord](https://discord.gg/227) server.
-
-also here's a handy glossary: 
+here's a handy glossary: 
 * talk-kai (トーク会) = talk event, online event where you just say hi to the member you're meeting
 * cheki-kai (チェキ会) = cheki (polaroid) event, a member will show you a random polaroid photo of themselves and you'll get that shipped to you.
 * sign-kai (サイン会) = sign (autograph) event, you get an autograph from a member you're meeting. that'll be shipped to you.
+
+* * *
+
+# READ THIS BEFORE YOU START SIGNING UP 
+
+:exclamation: :exclamation: :exclamation: :arrow_up: :arrow_up: :arrow_up: :exclamation: :exclamation: :exclamation: 
+
+* This guide will assume you have a _Tenso (proxy service) or a Japanese address_ you can use to have items shipped to you. If you don't, go [apply for one](https://www.tenso.com/en) first.   
+* There are extremely rare cases (system bug or otherwise) of people encountering an ID check screen before entering the line in the FortuneMeets app. If that happens, please have these documentation with you:   
+  * Your own passport   
+  * That is literally it.   
+  NOTE: You will absolutely only need to show your passport and _**only**_ that if you ever encounter the ID Check screen. Do not show any other form of identification such as your state ID card. However, you probably won't ever need to have it ready as the staff (22/7's staff specifically) won't ever ask for it.   
+
+Any specific questions on how to sign up can be answered at the #events chat at the [22/7 Discord](https://discord.gg/227) server.
 
 ok let's get started :point_down: :sunglasses: :point_down: 
 
@@ -84,6 +95,7 @@ got it? got it.
 | 白沢かなえ | [Kanae Shirosawa](https://nanabunnonijyuuni.fandom.com/wiki/Kanae_Shirosawa) |
 | 涼花萌 | [Moe Suzuhana](https://nanabunnonijyuuni.fandom.com/wiki/Moe_Suzuhana) |
 | 高辻麗 | [Urara Takatsuji](https://nanabunnonijyuuni.fandom.com/wiki/Urara_Takatsuji)|
+| 武田愛奈 | [Aina Takeda](https://nanabunnonijyuuni.fandom.com/wiki/Aina_Takeda) (on hiatus) |
 | ~~帆風千春~~ | ~~Chiharu Hokaze~~ (to be updated) |
 | 宮瀬玲奈 | [Reina Miyase](https://nanabunnonijyuuni.fandom.com/wiki/Reina_Miyase) | 
 
@@ -115,6 +127,7 @@ if you made it this far, it may be already too late.
   * Stacking tickets is a whole another topic I won't bother to cover lol 
 * If the online event is dedicated to 22/7's new single or something, then they will send out CDs to you since it's bundled with talk/cheki/sign-kai tickets. If you bought multiple tickets, then you may want to think of a way to get rid of extra CDs. Be aware that the CDs may also have low resale value at your local bookstore or something. ~~I recommend throwing the CDs into a river.~~
 * You may experience major lag during calls. 
+* FortuneMeets as an app sucks in general. There were many cases where events paid for won't show up at all. 
 
 ### Support or Contact
 
