@@ -127,7 +127,7 @@ if you made it this far, it may be already too late.
   * Stacking tickets is a whole another topic I won't bother to cover lol 
 * If the online event is dedicated to 22/7's new single or something, then they will send out CDs to you since it's bundled with talk/cheki/sign-kai tickets. If you bought multiple tickets, then you may want to think of a way to get rid of extra CDs. Be aware that the CDs may also have low resale value at your local bookstore or something. ~~I recommend throwing the CDs into a river.~~
 * You may experience major lag during calls. 
-* FortuneMeets as an app sucks in general. There were many cases where events paid for won't show up at all. 
+* FortuneMeets as an app sucks in general for many reasons. One thing about it is that there were many cases where events paid for won't show up at all for some people. While the suggestions were to change language/system region to Japanese, the best case scenario is to restart or reinstall the app.    
 
 ### Support or Contact
 
