@@ -14,9 +14,9 @@ In this guide, we will cover three things:
 3. [Downloading and using the FortuneMeets app](#downloading-and-using-the-fortunemeets-app)   
 
 here's a handy glossary: 
-* talk-kai (トーク会) = talk event, online event where you just say hi to the member you're meeting
-* cheki-kai (チェキ会) = cheki (polaroid) event, a member will show you a random polaroid photo of themselves and you'll get that shipped to you.
-* sign-kai (サイン会) = sign (autograph) event, you get an autograph from a member you're meeting. that'll be shipped to you.
+* `talk-kai (トーク会)` = talk event, online event where you just say hi to the member you're meeting
+* `cheki-kai (チェキ会)` = cheki (polaroid) event, a member will show you a random polaroid photo of themselves and you'll get that shipped to you.
+* `sign-kai (サイン会)` = sign (autograph) event, you get an autograph from a member you're meeting. that'll be shipped to you.
 
 * * *
 
@@ -24,6 +24,7 @@ here's a handy glossary:
 
 :exclamation: :exclamation: :exclamation: :arrow_up: :arrow_up: :arrow_up: :exclamation: :exclamation: :exclamation: 
 
+* These online events are made for primarily Japanese people (or living in Japan), so by signing up FortuneMusic to meet your oshi, you understand the risks of not having much reliable support from customer service. 
 * This guide will assume you have a _Tenso (proxy service) or a Japanese address_ you can use to have items shipped to you. If you don't, go [apply for one](https://www.tenso.com/en) first.   
 * There are extremely rare cases (system bug or otherwise) of people encountering an ID check screen before entering the line in the FortuneMeets app. If that happens, please have these documentation with you:   
   * Your own passport   
@@ -82,8 +83,10 @@ got it? got it.
 1. Luckily, the FortuneMusic homepage should already feature 22/7 when you go there. Scroll down until you see a schedule of sorts.
 2. You should see stuff when you scroll down. If you see a green button (受付中) then you can sign up there.   
 ![part2step2](https://i.imgur.com/B7YdcKL.png)
-4. On that next screen, you can see a list of members and the times and date they will be available. Most of you might be signing up to see Sally Amaki or something lol but for the people that don't understand a lick of Japanese (again, why are you here), here's a table of the member's names in kanji and a TL of it.
+4. On that next screen, you can see a list of members and the times and date they will be available (example image below). Most of you might be signing up to see Sally Amaki or something lol but for the people that don't understand a lick of Japanese (again, why are you here), here's a table of the member's names in kanji and a TL of it.
    1. If you live in a timezone that's vastly different than JST, google `[time] JST to [your own timezone]`. 
+   
+ Example image of scheduled times in normal talk event: ![](https://i.imgur.com/BnUfgW6.jpg)   
 
 | Members | TL |
 | --- | --- |
@@ -104,7 +107,12 @@ got it? got it.
 6. So now you’re ready to pay. Click on the 6 boxes and click the right button on the bottom (unless you’re a elementary schooler)
 ![Part2Step6](https://i.imgur.com/yS3l1NA.png)
 7. Next screen is the confirmation screen. Click the green button.   
-8. You're done now lol
+8. k you're done on that part.
+
+NOTE: if you're buying multiple tickets, then you will get results on which tickets you have gotten. This works as a lottery system-kinda thing (i'm bad at explaining this.) Basically if you go to your MyPage on FortuneMeets website and go to the first green button on the right (抽選申込履歴), you will see the results of the tickets you have won.
+
+* `当選` = Hit, you won every ticket   
+* `一部当選` = You won some of the tickets   
 
 * * *
 
