@@ -1,5 +1,6 @@
 ---
 permalink: /fmguide.html
+description: Signing up for FortuneMusic, getting tickets and how to use FortuneMeets app.
 ---
 
 # How to Talk to Your Oshi in Online Event (22/7 Edition)
