@@ -29,7 +29,8 @@ here's a handy glossary:
 * There are extremely rare cases (system bug or otherwise) of people encountering an ID check screen before entering the line in the FortuneMeets app. If that happens, please have this documentation with you:   
   * Your own passport   
   * That is literally it.   
-  NOTE: You will absolutely only need to show your passport and _**only**_ that if you ever encounter the ID Check screen. Do not show any other form of identification such as your state ID card. However, you probably won't ever need to have it ready as the staff (22/7's staff specifically) won't ever ask for it.   
+  NOTE: You will absolutely only need to show your passport and _**only**_ that if you ever encounter the ID Check screen. Do not show any other form of identification such as your state ID card. However, you probably won't ever need to have it ready as the staff (22/7's staff specifically) won't ever ask for it.
+* There are cases where the online event will hold same-day sales. Please be aware that problems may arise processing payments if you ever decide to join in an event on same day as applications. 
 
 Any specific questions on how to sign up can be answered at the #events chat at the [22/7 Discord](https://discord.gg/227) server.
 
@@ -111,6 +112,8 @@ NOTE: If you're buying multiple tickets, then you will get results on which tick
 
 * `当選` = Hit, you won every ticket   
 * `一部当選` = You won some of the tickets   
+
+NOTE2: As noted in the "Before You Read" section, there may be cases where applications are open the same day of a talk-kai or so. There are risks to signing up for them, such as payments may not process before the actual timeslot you signed up for. Be warned. :ghost:
 
 * * *
 
