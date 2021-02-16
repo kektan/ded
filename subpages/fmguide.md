@@ -30,7 +30,7 @@ here's a handy glossary:
   * Your own passport   
   * That is literally it.   
   NOTE: You will absolutely only need to show your passport and _**only**_ that if you ever encounter the ID Check screen. Do not show any other form of identification such as your state ID card. However, you probably won't ever need to have it ready as the staff (22/7's staff specifically) won't ever ask for it.
-* There are cases where the online event will hold same-day sales. Please be aware that problems may arise processing payments if you ever decide to join in an event on same day as applications. 
+* There are cases where an online event will hold same-day sales. Please be aware that problems may arise processing payments if you ever decide to participate in an event on the same day as applications open. 
 
 Any specific questions on how to sign up can be answered at the #events chat at the [22/7 Discord](https://discord.gg/227) server.
 
