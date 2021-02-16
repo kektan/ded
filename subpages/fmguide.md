@@ -113,8 +113,8 @@ NOTE: If you're buying multiple tickets, then you will get results on which tick
 * `当選` = Hit, you won every ticket   
 * `一部当選` = You won some of the tickets   
 
-NOTE2: As noted in the "Before You Read" section, there may be cases where applications are open the same day of a talk-kai or so. There are risks to signing up for them, such as payments may not process before the actual timeslot you signed up for. Be warned. :ghost:
-   * Same day sales from now on will cost separate shipping charges, instead of being bundled together like in regular talks. hope u got enough money. *
+NOTE2: As noted in the "Before You Read" section, there may be cases where applications are open the same day of a talk-kai or so. There are risks to signing up for them, such as payments may not be processed before the actual timeslot you signed up for. Be warned. :ghost:
+   * Normally, CDs will be bundled from FortuneMeets by default if you bought multiple tickets. However, sales from now on (or maybe for just the 7th single) will have CDs shipped individually and cost separate shipping charges past the single's release date, instead of being bundled together like before. You can still use Tenso to consolidate your packages.
 
 * * *
 
