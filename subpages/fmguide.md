@@ -131,9 +131,9 @@ For an in a nutshell-visual guide on how to use this, here's a [video guide](htt
 4. If the queue opens, the button for the event will light up. Click on that. (You may want to restart the app if it doesn't.)
 5. You will then see a list of members and it will also show if you have tickets for them. Click to enter queue.
 6. You'll get a screen asking if you want instructions, or there's a skip (スキップ) link at the very bottom.
-7. A popup asks how many tickets to use - enter a number an hit the green button (決定する) to confirm
+7. A popup asks how many tickets to use - enter a number and hit the green button (決定する) to confirm. It will also show the approximate wait time in the queue.
 8. You get a confirmation screen, hit OK.
-9. The app will do a camera test so you see what they see, hit green button to continue.   
+9. The app will do a camera test so you see what they see. Switch cameras if appropiate. Hit green button to continue.   
 10. The next screen will have you to choose your screen name (big green button at bottom) Enter something and confirm on the next popup (please don't enter something innappropiate.)   
 11. Wait in the queue. It will show the number of people in line ahead of you and the remaining time you have until you meet the member you're meeting. If you joined around the beginning of the time the queue opens, you have a 15 minute wait until the line actually starts moving which is when the event actually starts.   
 11. Congrats you have met your oshi. :confetti_ball:   
