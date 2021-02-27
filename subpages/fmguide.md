@@ -114,7 +114,7 @@ NOTE: If you're buying multiple tickets, then you will get results on which tick
 * `当選` = Hit, you won every ticket   
 * `一部当選` = You won some of the tickets   
 
-NOTE2: As noted in the "Before You Read" section, there may be cases where applications are open the same day of a talk-kai or so. There are risks to signing up for them, such as payments may not be processed before the actual timeslot you signed up for. Be warned. :ghost:
+NOTE2: As noted in the "Before You Apply" section, there may be cases where applications are open the same day of a talk-kai or so. There are risks to signing up for them, such as payments may not be processed before the actual timeslot you signed up for. Be warned. :ghost:
    * Normally, CDs will be bundled from FortuneMeets by default if you bought multiple orders. However, sales from now on (or maybe for just the 7th single) will have CD orders shipped individually and cost separate shipping charges past the single's release date, instead of being bundled together like before. CDs are still grouped per order. You can still use Tenso to consolidate your packages.
 
 * * *
@@ -126,14 +126,21 @@ For an in a nutshell-visual guide on how to use this, here's a [video guide](htt
 1. You might want to get used to the FortuneMeets app before the actual day of the online event. If you haven't already, download the [app](https://www.fortunemusic.app/).   
    NOTE: You might need to set your App/Play Store region to Japan to get the app. You'll only need to switch to a Japanese Apple ID on iOS. If you don't have a Japanese Apple ID, here's a [guide](https://www.wikihow.tech/Get-Japanese-Apps-on-iPhone-or-iPad) (I recommend following Method 2.) (i'm not familiar with android so you might need to figure out how to install JPN apps yourself)   
 2. When you open the app, you should see a bunch of events for 22/7. Press the second button on the bottom to log in (your login should be the same you signed up FortuneMusic with.) ![part3step2](https://i.imgur.com/JIFUubi.jpg)
-3. After you log in, you should see the events you have already paid for. If today's the day of the event, wait for the queue to open. (e.g. If you logged in at 10:15 JST, there's a 15 minute wait time before the actual event starts. You'll see the queue moving then.)
+3. After you log in, you should see the events you have already paid for. If today's the day of the event, wait for the queue to open. The queue opens on the first set of times. (受付時間)
 ![part3step3](https://i.imgur.com/MeR6Iyr.png)
-4. Wait in the queue. 
-5. Congrats you have met your oshi. 
+4. If the queue opens, the button for the event will light up. Click on that. (You may want to restart the app if it doesn't.)
+5. You will then see a list of members and it will also show if you have tickets for them. Click to enter queue.
+6. You'll get a screen asking if you want instructions, or there's a skip (スキップ) link at the very bottom.
+7. A popup asks how many tickets to use - enter a number an hit the green button (決定する) to confirm
+8. You get a confirmation screen, hit OK.
+9. The app will do a camera test so you see what they see, hit green button to continue.   
+10. The next screen will have you to choose your screen name (big green button at bottom) Enter something and confirm on the next popup (please don't enter something innappropiate.)   
+11. Wait in the queue. It will show the number of people in line ahead of you and the remaining time you have until you meet the member you're meeting. If you joined around the beginning of the time the queue opens, you have a 15 minute wait until the line actually starts moving which is when the event actually starts.   
+11. Congrats you have met your oshi. :confetti_ball:   
 
-if you made it this far, it may be already too late. 
+if you made it this far, it may be already too late.   
 
-...and that's the end of the guide.
+...and that's the end of the guide.   
 
 ### Other Notes
 * If you're not meeting Sally and don't have a clue on what to say to the member you're meeting, I recommend typing out a script and have it on a notepad on your computer. Keep in mind that one ticket in talk-kai is about 14 or so seconds (unless you bought multiple tickets and stacked them) so keep it brief. 
