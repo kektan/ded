@@ -107,9 +107,9 @@ got it? got it.
 6. So now you’re ready to pay. Click on the 6 boxes and click the right button on the bottom (unless you’re an elementary school student)
 ![Part2Step6](https://i.imgur.com/yS3l1NA.png)
 7. Next screen is the confirmation screen. Click the green button.   
-8. k you're done on that part.
+8. k you're done on that part. 
 
-NOTE: If you're buying multiple tickets, then you will get results on which tickets you have gotten. This works as a lottery system-kinda thing (i'm bad at explaining this.) Basically if you go to your MyPage on FortuneMeets website and go to the first green button on the right (抽選申込履歴), you will see the results of the tickets you have won. You only pay the tickets you have won. If you only buy one ticket then you'll get that ticket guaranteed. 
+NOTE: If you're buying multiple tickets, then you will get results on which tickets you have gotten. This works as a lottery system-kinda thing (i'm bad at explaining this.) Basically if you go to your MyPage on FortuneMeets website and go to the first green button on the right (抽選申込履歴), you will see the results of the tickets you have won. You only pay the tickets you have won. If you only buy one ticket then you'll get that ticket guaranteed. Lottery results are usually announced 2 days from the start of application period. 
 
 * `当選` = Hit, you won every ticket   
 * `一部当選` = You won some of the tickets   
