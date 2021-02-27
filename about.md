@@ -34,5 +34,5 @@ youtube:
 
 ### OTHER: 
 
-[main (better) site](amefuru.uwu.ai)   
-[UST/VSQx distribution site](ustvsqx.crd.co)   
+[main (better) site](https://amefuru.uwu.ai)   
+[UST/VSQx distribution site](https://ustvsqx.crd.co)   
