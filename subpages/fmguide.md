@@ -149,7 +149,8 @@ if you made it this far, it may be already too late.
 * You may experience _**major lag**_ during calls. 
 * FortuneMeets as an app sucks in general for many reasons. One thing about it is that there were many cases where events paid for won't show up at all for some people. While the suggestions from various users were to change language/system region to Japanese, the best case scenario is to restart or reinstall the app.   
 * It's recommended that you wear earbuds for the talk.
-* Lastly, _**DO NOT RECORD!**_ just don't do it bro, you'll be kicked.
+* Most importantly, please spend within your own means and limits. :pray: :money_with_wings: 
+* Lastly, _**DO NOT RECORD!**_ just don't do it bro, you'll be kicked. :video_camera: :x: 
 
 ### Support or Contact
 
