@@ -146,7 +146,7 @@ if you made it this far, it may be already too late.
 * If you're not meeting Sally and don't have a clue on what to say to the member you're meeting, I recommend typing out a script and have it on a notepad on your computer. Keep in mind that one ticket in talk-kai is about 14 or so seconds (unless you bought multiple tickets and stacked them) so keep it brief. 
   * Stacking tickets is a whole other topic I won't bother to cover lol 
 * If the online event is dedicated to 22/7's new single or something, then they will send out CDs to you since it's bundled with talk/cheki/sign-kai tickets. If you bought multiple tickets, then you may want to think of a way to get rid of extra CDs. Be aware that the CDs may also have low resale value at your local bookstore or something. ~~I recommend throwing the CDs into a river.~~
-* You may experience major lag during calls. 
+* You may experience _**major lag**_ during calls. 
 * FortuneMeets as an app sucks in general for many reasons. One thing about it is that there were many cases where events paid for won't show up at all for some people. While the suggestions from various users were to change language/system region to Japanese, the best case scenario is to restart or reinstall the app.   
 * It's recommended that you wear earbuds for the talk.
 * Lastly, _**DO NOT RECORD!**_ just don't do it bro, you'll be kicked.
