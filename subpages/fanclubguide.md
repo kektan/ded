@@ -1,7 +1,7 @@
-~~~
+---
 permalink: fcguide.html
 description: Guide to signing up 22/7's fanclub, Nananiji House.
-~~~
+---
 
 # How to Sign Up for 22/7 Fanclub
 
