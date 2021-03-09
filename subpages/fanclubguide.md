@@ -1,5 +1,5 @@
 ---
-permalink: fcguide.html
+permalink: fanclubguide.html
 description: Guide to signing up 22/7's fanclub, Nananiji House.
 ---
 
