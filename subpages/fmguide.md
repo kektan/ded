@@ -129,14 +129,21 @@ For an in a nutshell-visual guide on how to use this, here's a [video guide](htt
 3. After you log in, you should see the events you have already paid for. If today's the day of the event, wait for the queue to open. The queue opens on the first set of times. (受付時間)
 ![part3step3](https://i.imgur.com/MeR6Iyr.png)
 4. If the queue opens, the button for the event will light up. Click on that. (You may want to restart the app if it doesn't.)
-5. You will then see a list of members and it will also show if you have tickets for them. Click to enter queue.
-6. You'll get a screen asking if you want instructions, or there's a skip (スキップ) link at the very bottom.
-7. A popup asks how many tickets to use - enter a number and hit the green button (決定する) to confirm. It will also show the approximate wait time in the queue.
-8. You get a confirmation screen, hit OK.
-9. The app will do a camera test so you see what they see. Switch cameras if appropiate. Hit green button to continue.   
-10. The next screen will have you to choose your screen name (big green button at bottom) Enter something and confirm on the next popup (please don't enter something innappropiate.)   
-11. Wait in the queue. It will show the number of people in line ahead of you and the remaining time you have until you meet the member you're meeting. If you joined around the beginning of the time the queue opens, you have a 15 minute wait until the line actually starts moving which is when the event actually starts.   
-11. Congrats you have met your oshi. :confetti_ball:   
+5. Click the green button（次へ）. 
+![part3step5](https://i.imgur.com/s3UaO7o.png) 
+6. You will then see a list of members and it will also show if you have tickets for them. Click to enter queue. 
+![part3step6](https://i.imgur.com/P96IYKe.png)
+7. You'll get a screen asking if you want to do a internet test. There's a skip (スキップ) link at the very bottom. 
+![part3step7](https://i.imgur.com/oEV9fGb.png)
+8. A popup asks how many tickets to use - enter a number and hit the green button (決定する) to confirm. It will also show the approximate wait time in the queue.
+![part3step8](https://i.imgur.com/5vM8K3X.png)
+9. You get a confirmation screen, hit OK.
+10. The app will do a camera test so you see what they see. Switch cameras if appropiate. Hit green button to continue.   
+11. The next screen will have you to choose your screen name (big green button at bottom) Enter something and confirm on the next popup (please don't enter something innappropiate.)   
+![part3step11 1](https://i.imgur.com/GHsAKCi.png)
+![part3step 11 2](https://i.imgur.com/FUtX6Nm.png)
+12. Wait in the queue. It will show the number of people in line ahead of you and the remaining time you have until you meet the member you're meeting. If you joined around the beginning of the time the queue opens, you have a 15 minute wait until the line actually starts moving which is when the event actually starts. 
+13. Congrats you have met your oshi. :confetti_ball:   
 
 if you made it this far, it may be already too late.   
 
@@ -149,7 +156,7 @@ if you made it this far, it may be already too late.
 * You may experience _**major lag**_ during calls. 
 * FortuneMeets as an app sucks in general for many reasons. One thing about it is that there were many cases where events paid for won't show up at all for some people. While the suggestions from various users were to change language/system region to Japanese, the best case scenario is to restart or reinstall the app.   
 * It's recommended that you wear earbuds for the talk.
-* Most importantly, please spend within your own means and limits. :pray: :money_with_wings: 
+* Most importantly, _please spend within your own means and limits._ :pray: :money_with_wings: 
 * Lastly, _**DO NOT RECORD!**_ just don't do it bro, you'll be kicked. :video_camera: :x: 
 
 ### Support or Contact
