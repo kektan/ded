@@ -139,7 +139,7 @@ For an in a nutshell-visual guide on how to use this, here's a [video guide](htt
 ![part3step8](https://i.imgur.com/5vM8K3X.png)
 9. You get a confirmation screen, hit OK.
 10. The app will do a camera test so you see what they see. Switch cameras if appropiate. Hit green button to continue.   
-11. The next screen will have you to choose your screen name (big green button at bottom) Enter something and confirm on the next popup (please don't enter something innappropiate.)   
+11. The next screen will have you to choose your screen name. Press green button （呼ばれたい名前を決める）and enter something. Confirm by pressing OK on the next popup (please don't enter something innappropiate.)   
 ![part3step11 1](https://i.imgur.com/GHsAKCi.png)
 ![part3step 11 2](https://i.imgur.com/FUtX6Nm.png)
 12. Wait in the queue. It will show the number of people in line ahead of you and the remaining time you have until you meet the member you're meeting. If you joined around the beginning of the time the queue opens, you have a 15 minute wait until the line actually starts moving which is when the event actually starts. 
