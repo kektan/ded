@@ -98,7 +98,7 @@ got it? got it.
 | 白沢かなえ | [Kanae Shirosawa](https://nanabunnonijyuuni.fandom.com/wiki/Kanae_Shirosawa) |
 | 涼花萌 | [Moe Suzuhana](https://nanabunnonijyuuni.fandom.com/wiki/Moe_Suzuhana) |
 | 高辻麗 | [Urara Takatsuji](https://nanabunnonijyuuni.fandom.com/wiki/Urara_Takatsuji)|
-| 武田愛奈 | [Aina Takeda](https://nanabunnonijyuuni.fandom.com/wiki/Aina_Takeda) (on hiatus) |
+| 武田愛奈 | [Aina Takeda](https://nanabunnonijyuuni.fandom.com/wiki/Aina_Takeda) |
 | ~~帆風千春~~ | ~~Chiharu Hokaze~~ (to be updated) |
 | 宮瀬玲奈 | [Reina Miyase](https://nanabunnonijyuuni.fandom.com/wiki/Reina_Miyase) | 
 
