@@ -115,7 +115,7 @@ NOTE: If you're buying multiple tickets, then you will get results on which tick
 * `一部当選` = You won some of the tickets   
 
 NOTE2: As noted in the "Before You Apply" section, there may be cases where applications are open the same day of a talk-kai or so. There are risks to signing up for them, such as payments may not be processed before the actual timeslot you signed up for. Be warned. :ghost:
-   * Normally, CDs will be bundled from FortuneMeets by default if you bought multiple orders. However, sales from now on (or maybe for just the 7th single) will have CD orders shipped individually and cost separate shipping charges past the single's release date, instead of being bundled together like before. CDs are still grouped per order. You can still use Tenso to consolidate your packages.
+   * Normally, CDs will be bundled from FortuneMeets by default if you bought multiple orders. However, sales from now on will have CD orders shipped individually and cost separate shipping charges past the single's release date, instead of being bundled together like before. CDs are still grouped per order. You can still use Tenso to consolidate your packages.
 
 * * *
 
