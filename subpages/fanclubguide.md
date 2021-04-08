@@ -17,10 +17,10 @@ We'll cover
 
 ## How to Actually Sign Up
 
-* It's recommended that you're on your smartphone for this. 
-1. On the [official](https://nanabunnonijyuuni.com/) website, go to the 3 bars icon on the top left. A bunch of options will pop-up. We want to go to "Fanclub". Click on that. (or here's a direct [link](https://nanabunnonijyuuni-mobile.com/) to it.)
-2. If you're viewing the site on PC, there's a QR code you can scan with your phone so go do that.   
-    If you're on the site on your smartphone, it'll show two options: one to register and one to log in. Click the first (blue) one.   
+* **It's recommended that you're on your smartphone for this.** 
+1. On the [official](https://nanabunnonijyuuni.com/) website, go to the 3 bars icon on the top left (bottom right on smartphone). A bunch of options will pop-up. We want to go to "Fanclub". Click on that. (or here's a direct [link](https://nanabunnonijyuuni-mobile.com/) to it.)
+2. If you're viewing the site on PC, there's a QR code you can scan with your phone so go do that. ↓   
+    → If you're on the site on your smartphone, it'll show two options: one to register and one to log in. Click the first (blue) one.   
 3. Enter your email. After that, click that checkbox. Then go to confirm your email.
 4. Set your password. There are no special requirements.
 5. Choose if you want to pay monthly or yearly. *Please note that there is no discount for yearly.
