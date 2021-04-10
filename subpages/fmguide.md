@@ -64,6 +64,7 @@ A. follow these steps
    8. Congrats you're finished. But not quite! You need to add your credit card info!
    9. When you get to the screen after clicking the link on your confirmation email, go to the first grey box.
    10. Type in your credit card details. Card number, expiration date, name on card and security code. Do the captcha too.
+* PLEASE NOTE: You can use a debit card even it says "credit card". But make sure the card you're using has a security code on the back or else you won't be able to make payments for stuff.
    11. ok *now* you're done
 
 * * *
