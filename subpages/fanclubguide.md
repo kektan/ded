@@ -34,3 +34,7 @@ We'll only cover on how to sign up Fanclub
 11. You're done.
 
 Congrats, you have signed up for fanclub. 
+
+## Cancelling
+
+To cancel your membership, here's this [link](https://nanabunnonijyuuni-mobile.com/s/n110/member/delete?ima=0005).
