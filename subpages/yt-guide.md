@@ -19,8 +19,8 @@ to be written later lol
 
 # ytarchive on MacOS   
 
-＊This should apply to Unix systems as well.
-Because it isn't really detailed on the page:
+＊This should apply to Unix systems as well.    
+Because it isn't really detailed on the repo page:
 
 1. Open Terminal (or some other commandline program you have)   
 2. Type `git clone https://github.com/Kethsar/ytarchive.git` to get the script on your computer   
