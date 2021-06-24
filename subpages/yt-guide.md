@@ -36,7 +36,7 @@ You're technically done installing now. For regular usage:
 1. Type `cd ytarchive` in Terminal   
 2. Type `python3 ytarchive.py -w [link] 1080p60/best`   
 
-It will then start recording from the beginning. Things such as mismatched frames are bound to happen at first time use so it isn't completely fool-proof. 
+It will then start recording from the beginning. Things such as mismatched frames are bound to happen so it isn't completely fool-proof. 
 
 ### Passing cookies
 In the very case of an unarchived member-only stream, you can pass cookies with `-c [cookies.txt file]`   
