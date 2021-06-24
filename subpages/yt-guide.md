@@ -1,12 +1,12 @@
 ---
 permalink: /ytguide.html
-description: How to use programs to record VTuber streams from the beginning
+description: How to use programs to record VTuber streams from the beginning for dummiez
 ---
 
 # How to use record VTuber streams from the beginning
 
 So you're an archiver but don't really have a way to record (often unarchived) ⛩️ streams from youtube-dl unless jumped in from the very start. Look no further to this shitty guide.   
-This guide will cover how to install programs such as [ytarchive](https://github.com/Kethsar/ytarchive), which that will record streams from the very beginning without having to be on the stream from the start time. 
+This (simple) guide will cover how to install programs such as [ytarchive](https://github.com/Kethsar/ytarchive), which that will record streams from the very beginning without having to be on the stream from the start time. 
 
 This guide assumes you have [ffmpeg](https://www.ffmpeg.org/) installed.
 
@@ -38,8 +38,10 @@ You're technically done installing now. For regular usage:
 1. Type `cd ytarchive` in Terminal   
 2. Type `python3 ytarchive.py -w [link] 1080p60/best`   
 
-It will then start recording from the beginning. Things such as mismatched frames are bound to happen so it isn't completely fool-proof. 
-
+It will then start recording from the beginning. Things such as mismatched frames are bound to happen so it isn't completely fool-proof.   
+   
+＊You will need [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) to keep your computer on while ytarchive records the stream.   
+   
 #### Passing cookies
 In the very case of an unarchived member-only stream, you can pass cookies with `-c [cookies.txt file]`   
 
