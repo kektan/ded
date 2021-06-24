@@ -15,7 +15,13 @@ How in install on platform:
 * [MacOS/Unix](#ytarchive-on-macos)
 
 # ytarchive on Windows    
-to be written later lol   
+1. Download the latest release on the github page. (Maybe preferably the .zip file)    
+2. Extract the zip file.    
+3. Run ytarchive.exe    
+4. Input the link to a(n ongoing) stream when prompted. Input quality as `1080p60` or `best` when prompted.    
+
+dun dun dun dun you did it ✨    
+for regular usage, repeat 3 and 4.    
 
 # ytarchive on MacOS   
 
@@ -31,3 +37,11 @@ You're technically done installing now. For regular usage:
 2. Type `python3 ytarchive.py -w [link] 1080p60/best`   
 
 It will then start recording from the beginning. Things such as mismatched frames are bound to happen at first time use so it isn't completely fool-proof. 
+
+### Passing cookies
+In the very case of an unarchived member-only stream, you can pass cookies with `-c [cookies.txt file]`   
+
+1. Get an extension like [Get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid/) (Chrome) or [cookies.txt](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/) (Firefox)   
+2. Go to YouTube homepage with the account you have access to memberships to, then click on the extension to extract the cookies.
+3. Save the cookies.txt file somewhere you have easy access to them, like on Desktop or something
+4. If you're using ytarchive to record membership streams, type `-c ` then drag and drop the cookies.txt file you extracted. (It's easier that way.)
