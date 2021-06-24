@@ -11,7 +11,7 @@ This guide will cover how to install programs such as [ytarchive](https://github
 This guide assumes you have [ffmpeg](https://www.ffmpeg.org/) installed.
 
 How in install on platform:
-* []
+* [Windows](#ytarchive-on-windows)
 * [MacOS/Unix](#ytarchive-on-macos)
 
 # ytarchive on Windows    
