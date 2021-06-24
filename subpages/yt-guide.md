@@ -14,7 +14,7 @@ How in install on platform:
 * [Windows](#ytarchive-on-windows)
 * [MacOS/Unix](#ytarchive-on-macos)
 
-# ytarchive on Windows    
+## ytarchive on Windows    
 
 ＊You will need [Python3](https://www.python.org/downloads/) to use this.
 1. Download the latest release on the github page. (Maybe preferably the .zip file)    
@@ -25,7 +25,7 @@ How in install on platform:
 dun dun dun dun you did it ✨    
 for regular usage, repeat 3 and 4.    
 
-# ytarchive on MacOS   
+## ytarchive on MacOS   
 
 ＊This should apply to Unix systems as well.    
 Because it isn't really detailed on the repo page:
@@ -40,7 +40,7 @@ You're technically done installing now. For regular usage:
 
 It will then start recording from the beginning. Things such as mismatched frames are bound to happen so it isn't completely fool-proof. 
 
-### Passing cookies
+#### Passing cookies
 In the very case of an unarchived member-only stream, you can pass cookies with `-c [cookies.txt file]`   
 
 1. Get an extension like [Get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid/) (Chrome) or [cookies.txt](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/) (Firefox)   
