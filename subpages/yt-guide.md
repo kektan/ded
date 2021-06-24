@@ -15,6 +15,8 @@ How in install on platform:
 * [MacOS/Unix](#ytarchive-on-macos)
 
 # ytarchive on Windows    
+
+＊You will need [Python3](https://www.python.org/downloads/) to use this.
 1. Download the latest release on the github page. (Maybe preferably the .zip file)    
 2. Extract the zip file.    
 3. Run ytarchive.exe    
@@ -45,3 +47,5 @@ In the very case of an unarchived member-only stream, you can pass cookies with 
 2. Go to YouTube homepage with the account you have access to memberships to, then click on the extension to extract the cookies.
 3. Save the cookies.txt file somewhere you have easy access to them, like on Desktop or something
 4. If you're using ytarchive to record membership streams, type `-c ` then drag and drop the cookies.txt file you extracted. (It's easier that way.)
+
+Because the cookies files won't get saved, you will need to do 4 everytime.
