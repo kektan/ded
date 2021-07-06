@@ -155,7 +155,7 @@ if you made it this far, it may be already too late.
   * Stacking tickets is a whole other topic I won't bother to cover lol 
 * If the online event is dedicated to 22/7's new single or something, then they will send out CDs to you since it's bundled with talk/cheki/sign-kai tickets. If you bought multiple tickets, then you may want to think of a way to get rid of extra CDs. Be aware that the CDs may also have low resale value at your local bookstore or something. ~~I recommend throwing the CDs into a river.~~
   * If you contact Tenso, they can dispose of the extra CDs for you, free of charge (just give them the package number). If you had your packages consolidated, you may need to pay the consolidation service fee (which is 500JPY.) Please be careful not to accidentally dispose of the packages with chekis/signs. :wink:
-* There are cases where 22/7 staff will hold Choco Talk, where you can talk to members for free. Same application process applies, but you can only apply to talk to one member for that entire event, so choose who you want to talk to carefully. 
+* There are rare cases where 22/7 staff will hold Choco Talk, where you can talk to members for free. Same application process applies, but you can only apply to talk to one member for that entire event, so choose who you want to talk to carefully. 
 * You may experience _**major lag**_ during calls. 
 * FortuneMeets as an app sucks in general for many reasons. One thing about it is that there were many cases where events paid for won't show up at all for some people. While the suggestions from various users were to change language/system region to Japanese, the best case scenario is to restart or reinstall the app.   
 * It's recommended that you wear earbuds for the talk. 
