@@ -51,3 +51,22 @@ In the very case of an unarchived member-only stream, you can pass cookies with 
 4. If you're using ytarchive to record membership streams, type `-c ` then drag and drop the cookies.txt file you extracted. (It's easier that way.)
 
 Because the cookies files won't get saved, you will need to do 4 everytime.
+
+-----
+
+# Recording Twitch streams
+
+For this, you will need to use [Streamlink](https://streamlink.github.io/). Go install that. 
+
+## Streamlink on MacOS
+
+If you got it installed, enter this code during a Twitch stream:
+```
+streamlink <URL> best -o stream.mp4 --hls-live-restart
+```
+
+If the streamer is yet to start yet, enter this after ```best```:
+```
+--retry-delay 60
+```
+This will the retry stream grabbing every 60 seconds.
