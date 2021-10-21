@@ -39,7 +39,7 @@ twitter: amefuru_
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: youkame
+youtube: amedesu
 # spotify: myspotify
 github: ameyoyo
 # gitlab: mygitlab
@@ -76,7 +76,7 @@ pagination:
 #projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+#about: true
 blog: false
 
 # do you want to show the "read time" of the posts?
