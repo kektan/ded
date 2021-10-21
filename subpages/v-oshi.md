@@ -1,3 +1,7 @@
+---
+permalink: /v-oshi.html
+---
+
 Ame's VTuber Oshis (Not particularly ranked.)   
 あめの推すVさんリスト　（特にランクではない）
 
