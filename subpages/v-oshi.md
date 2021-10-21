@@ -15,8 +15,8 @@ Ame's VTuber Oshis (Not particularly ranked.)
 <details>
   <summary>Masquerade／ますかれーど</summary>   
   
-- [Tenshi Nano](https://twitter.com/angelnano1004?s=21) | 💙
-- [Yumemiya Alice](https://twitter.com/aliceyume1126?s=21) | 🃏
-- [Momose Meru](https://twitter.com/momose_meruu?s=21) | 🍑💞
+- [Tenshi Nano](https://twitter.com/angelnano1004?s=21) | 💙 
+- [Yumemiya Alice](https://twitter.com/aliceyume1126?s=21) | 🃏 
+- [Momose Meru](https://twitter.com/momose_meruu?s=21) | 🍑💞 
   
   </details>
