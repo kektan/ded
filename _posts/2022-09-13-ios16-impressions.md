@@ -4,6 +4,7 @@ layout: post
 date: 2022-09-13
 author: ame
 description: uhhhhhhh
+permalink: ios16-impressions.html
 ---
 # Ame's iOS 16 First Impressions
 
